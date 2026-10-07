@@ -1,0 +1,6 @@
+# generated code — see ADR 0001 open question: commit or generate at build time (undecided)
+*.pb.go
+*_grpc.pb.go
+# editor
+.idea/
+.vscode/
